@@ -1,0 +1,8 @@
+input.input-error {
+  border-color: #ff0055
+}
+
+.input-msg {
+  font-size: 13px;
+  color    : #ff0055;
+}
